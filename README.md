@@ -7,6 +7,8 @@ Ejemplo: tar -xf super_mario.tar.gz
 Usa el tabulador para autocompletar el nombre
 
 
+
+
 COMO DESCARGAR EL EMULADOR DE N64:
 
 sudo apt update
